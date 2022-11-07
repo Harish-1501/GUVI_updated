@@ -16,7 +16,6 @@
                 <div class="col-sm-2">
                     <h5>Get started</h5>
                     <ul>
-                        <li><a href="../welcome/" target="_blank">Welcome</a></li>
                         <li><a href="../login/" target="_blank">Log in</a></li>
                         <li><a href="../register/" target="_blank">Sign up</a></li>
                     </ul>
